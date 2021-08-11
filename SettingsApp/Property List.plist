@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Property List.plist
+   SettingsApp
+
+   Created by Vinayak Tudayekar on 10/08/21.
+   Copyright (c) 2021 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<dict>
+   <key>Type</key>
+   <string>PSTitleValueSpecifier</string>
+   <key>Title</key>
+   <string>Version</string>
+   <key>Key</key>
+   <string>version_preference</string>
+   <key>DefaultValue</key>
+   <string>VersionValue</string>
+   <key>Values</key>
+   <array>
+       <string>VersionValue</string>
+   </array>
+   <key>Titles</key>
+   <array>
+       <string>VersionValue</string>
+   </array>
+</dict>
